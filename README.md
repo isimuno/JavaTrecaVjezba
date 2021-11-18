@@ -58,6 +58,7 @@ dokumentirati sve klase, konstruktore i metode (osim „getter“ i
 „setter“ metoda) te generirati Javadoc dokumentaciju korištenjem
 uputa sa sljedećeg linka:
 https://www.jetbrains.com/help/idea/working-with-codedocumentation.html#generate-javadoc.
+
 Primjer izvođenja programa:
 Unesite podatke o 3 županije:
 Unesite naziv županije: GRAD ZAGREB
