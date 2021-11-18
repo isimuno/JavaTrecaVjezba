@@ -1,4 +1,4 @@
-# Treca-laboratorijska-vjezba
+# JavaTrecaVjezba
 
 
 3.1. TEMA VJEŽBE
